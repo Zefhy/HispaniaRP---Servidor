@@ -1,0 +1,2 @@
+# HispaniaRP---Servidor
+Es un proyecto de un servidor de fivem desarrollado en LUA, Se recuerda que el servidor tiene una licencia Apache License 2.0 y no podeis cambiar el autor del proyecto ni atribuiros el proyecto, si se encuentra alguna situacion de atribución del proyecto de responderá con un denuncia al autor que haya usado los archivos indebidamente, Para cualquier duda; Discord - RaulSuper30#8314
